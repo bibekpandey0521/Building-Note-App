@@ -2,9 +2,6 @@
 
 This repository contains the **frontend** code for the Building Note App — a simple and intuitive note-taking application built with React.
 
-## Demo
-(Add a link here if you have a live demo deployed)
-
 ## Features
 - Create, edit, and delete notes
 - Easy to use interface for managing your notes
