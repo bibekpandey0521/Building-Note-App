@@ -10,7 +10,6 @@ This repository contains the **frontend** code for the Building Note App — a s
 - Easy to use interface for managing your notes
 
 ## Tech Stack
-- React
 - CSS / Styled Components (adjust based on your styling method)
 - Axios / Fetch (if you have API calls)
 - (Add other libraries you are using)
